@@ -1,0 +1,9 @@
+
+_msu2_extract/
+*.exe
+*.docx
+MSU2_MINI_DemoV1*
+*.pdf
+
+__pycache__/
+*.pyc
